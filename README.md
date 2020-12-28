@@ -1,5 +1,6 @@
 # Description
- A Beautiful Heart Shape Star Pattern
+
+ A Beautiful Heart Shape Star Pattern . In this program we will see how to print heart shaped pattern in C . Now if we analyze this pattern, we can find different section in this pattern. The base of the heart is an inverted triangle; the upper portion has two different peaks. Between these two peaks there is a gap. 
 
 
 # Sceenshot
