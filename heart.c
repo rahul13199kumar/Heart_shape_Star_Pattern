@@ -41,7 +41,7 @@ int main()
 
         for(j=1; j<=(i*2)-1; j++)
         {
-            printf("*");
+            printf("$"); //we can use any symbol 
         }
 
         printf("\n");
