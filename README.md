@@ -14,6 +14,6 @@
 ![eeee](https://user-images.githubusercontent.com/55308841/103144939-bb000680-4757-11eb-86f3-ead3ba95e951.png)
 
 
-# Cotnributor
+# contributior
 
 Rahul Kumar , rahul13199kumar
